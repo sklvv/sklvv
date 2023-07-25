@@ -2,11 +2,11 @@
 <div align='start'><img src="https://www.codewars.com/users/sucklw/badges/large" alt="Achhoubi Alpha Codewars Badge"></div>
 <br />
 
-## 👋 Ilya, 19 y.o
+## 👋 Ilya, 👀 
 
-## 👀 WebDev
 
-## 📫 telegram: @sucklvv
+
+<!--- ## 📫 telegram: @sucklvv ---> 
 
 <!---
 sklvv/sklvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
